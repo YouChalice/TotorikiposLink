@@ -1,0 +1,73 @@
+/*Reset*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,p,blockquote,th,td,a,img {
+    margin:0;
+    padding:0;
+    cursor:default;
+}
+
+ul,ol,li{
+    list-style:none;
+}
+
+img.button {
+    cursor: pointer;
+}
+
+body{
+	background-color:#fcfbdc;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    text-align : center;
+}
+
+main {
+    width: 100%;
+    text-align : center;
+}
+
+#window {
+    margin: auto;
+    width: 624px;
+    height: 181px;
+    text-align : left;
+    background-image: url(Common/Message.png);
+}
+
+h1,p {
+    margin-left: 18px;
+    font-size: 26px;
+}
+
+h1 {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+dl{
+    padding-top: 32px;
+    text-align: left;
+}
+
+dd{
+    font-size: 20px;
+    cursor: text;
+}
+
+dt{
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#banner {
+    cursor: pointer;
+}
+
+#Mandrake{
+    position: relative;
+    left: 524px;
+    bottom: 149px;
+}
