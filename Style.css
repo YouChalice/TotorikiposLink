@@ -41,7 +41,9 @@ h1,p {
     font-size: 26px;
 }
 
-
+h1 {
+    padding-top: 18px;
+}
 
 dl{
     padding-top: 32px;
@@ -69,4 +71,5 @@ dt{
     bottom: 149px;
 
 }
+
 
